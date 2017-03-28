@@ -1,0 +1,30 @@
+{
+  "name": "alexa-travelq-skill",
+  "version": "1.0.0",
+  "description": "Alexa Skill to evaluate travel quotient",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbzebra/travelq.git"
+  },
+  "keywords": [
+    "Alexa",
+    "skill",
+    "travelq",
+    "travel",
+    "quotient"
+  ],
+  "author": "Mariswaran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbzebra/travelq/issues"
+  },
+  "homepage": "https://github.com/mbzebra/travelq#readme"
+}
