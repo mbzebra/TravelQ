@@ -4,7 +4,8 @@
   "description": "Alexa Skill to evaluate travel quotient",
   "main": "index.js",
   "dependencies": {
-    "aws-sdk": "^2.4.7"
+    "aws-sdk": "^2.4.7",
+    "alexa-sdk": "^1.0.6"
   },
   "devDependencies": {},
   "scripts": {
